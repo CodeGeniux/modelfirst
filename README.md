@@ -19,6 +19,7 @@
 * Java
   * Hibernate v5
   * JPA 2.1
+  * JPA 3.1
 * JavaScript
   * Sequelize V6
   * Knex
@@ -65,11 +66,13 @@
 ## Todo
 
 - [ ] Improve UI
-- [ ] Real time collaboration 
+- [ ] Add embedded view
+- [ ] Realtime collaboration 
 - [ ] Mobile Version
 - [ ] Import SQL DDL 
 - [ ] Import existing code
 - [ ] Import existing database
+- [ ] Import from excel
 - [ ] Support inheritance
 - [ ] Support migrations
 - [ ] Support Cache Operations 
@@ -79,4 +82,5 @@
 - [ ] Support Enum type
 - [ ] Support Embedded objects
 - [ ] Allow group codegens as Tech stack
+- [ ] Allow export to UML
 
